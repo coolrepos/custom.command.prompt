@@ -1,0 +1,1 @@
+right click on .bat file > edit with notepad OR notepad++ > then ur done!
